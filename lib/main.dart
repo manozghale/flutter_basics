@@ -97,6 +97,30 @@ class _MyHomePageState extends State<MyHomePage> {
             price: 800,
             image: "tablet.png",
           ),
+          MyListView(
+            name: "iPhone",
+            description: "iPhone is the stylist phone ever",
+            price: 1000,
+            image: "iphone.png",
+          ),
+          MyListView(
+            name: "Pixel",
+            description: "Pixel is the most featured phone ever",
+            price: 1200,
+            image: "pixel.png",
+          ),
+          MyListView(
+            name: "Laptop",
+            description: "Laptop is the most featured gadget ever",
+            price: 1400,
+            image: "laptop.png",
+          ),
+          MyListView(
+            name: "Tablet",
+            description: "Pixel is the most portable gadget ever",
+            price: 800,
+            image: "tablet.png",
+          ),
         ],
       ),
     );//

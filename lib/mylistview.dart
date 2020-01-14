@@ -16,7 +16,7 @@ class MyListView extends StatelessWidget {
              padding: EdgeInsets.all(2), height: 120,  child: Card( 
                 child: Row(
                    mainAxisAlignment: MainAxisAlignment.spaceEvenly, children: <Widget>[
-                    Image.asset("assets/" +image), Expanded(
+                    Image.asset("assets/images/" +image), Expanded(
                         // Image.asset(myExploreWidget), Expanded(
                      child: Container(
                         padding: EdgeInsets.all(5), child: Column(
